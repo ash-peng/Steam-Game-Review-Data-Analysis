@@ -1,4 +1,3 @@
-# CMPT 353 Final Project Ash, Ibrahim, Marko
 To run this project you need Python ver. >= 3.5 as well as the following dependencies:
 ```
 PIL 7.2.0
